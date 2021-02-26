@@ -16,8 +16,7 @@
 <?import javafx.scene.control.TextField?>
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.control.TextArea?>
-<!-- Атрибут fx:controller="sample.Controller" указывает файл, который управляет этим fxml-файлом.
-	 В одной директории допускается сосуществование нескольких fxml-файлов. -->
+<!-- Атрибут fx:controller="sample.Controller" указывает файл, который управляет этим fxml-файлом. -->
 <?import javafx.scene.layout.FlowPane?>
 <?import javafx.scene.layout.ColumnConstraints?>
 <?import javafx.scene.layout.RowConstraints?>
